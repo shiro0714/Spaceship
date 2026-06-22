@@ -1,0 +1,5 @@
+[
+    {"Name":"Raider","length":25,"HP":90,"Attack":22},
+    {"Name":"Interceptor","length":20,"HP":80,"Attack":30},
+    {"Name":"Dreadnought","length":40,"HP":150,"Attack":15}
+]

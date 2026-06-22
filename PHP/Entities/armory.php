@@ -18,7 +18,7 @@ class armory{
  
  
     public function getName():string
-    {
+    { 
         return $this->Name;
     }
  

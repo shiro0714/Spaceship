@@ -58,8 +58,11 @@ class Spaceship{
         $this->Attack = $Attack;
     }
  
-   
-}
+   public function _atatack():string
+    {
+       return "Spaceship " . $this->Name . " is attacking with " . $this->Attack . " damage!";
+    }
+}   
  
  
 ?>
